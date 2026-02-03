@@ -1,0 +1,10 @@
+my:
+  greetings: Hello world from config server
+  list:
+    values: one, two, three
+dbValues: "{urlName: 'http://_____', username: 'myname', password: 'pass'}"
+
+db:
+  connection: "{url:'htpp://config-server_____', username:'myname', password:'pass123'}"
+  port: 1234
+  host: 0.123.01
