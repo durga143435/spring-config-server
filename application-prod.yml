@@ -2,3 +2,7 @@ db:
   connection: "{url:'htpp://updated-prod-env_____', username:'myname-prod', password:'pass123-prod'}"
   port: 1234
   host: 0.123.01
+
+credentials:
+  username: myname
+  password: mypass123
